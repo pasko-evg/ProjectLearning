@@ -1,0 +1,5 @@
+Hello stream world
+Enter a number > 12 squared is 144
+Enter a number > 14 squared is 196
+Enter a number > 15 squared is 225
+Enter a number > bye
