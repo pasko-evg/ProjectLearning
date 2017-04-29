@@ -17,7 +17,7 @@ def adder():
 
 threads = []
 
-for i in range(100):
+for i in range(1000):
     thread = threading.Thread(target=adder, args=())
     thread.start()
     threads.append(thread)
